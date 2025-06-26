@@ -218,7 +218,7 @@ const Navbar = ({
                     {menu.map((item) => renderMobileMenuItem(item))}
                   </Accordion>
 
-                  <div className="flex flex-col gap-3 bg-amber-200">
+                  <div className="flex flex-col gap-3">
                   <Link href={auth.login.url} legacyBehavior>
             <Button asChild className="w-full sm:w-auto bg-[#e91347] hover:text-white hover:bg-[#fc144d] py-6 text-xl transition duration-300 ease-in-out group">
             

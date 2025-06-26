@@ -39,7 +39,7 @@ export const metadata = {
     description:
       "Be part of our mission transforming lives through faith & compassion.",
     url: "https://yes4save.org",
-    images: "/1.jpg",
+    images: ["https://www.yes4save.org/1.jpg"],
     type: "website",
     locale: "en_US",
   },
@@ -48,7 +48,7 @@ export const metadata = {
     title: "Elijah's Fire Faith Ministry & Yes4Save Foundation",
     description:
       "Igniting revival and serving communities through Christ-centered missions and outreach.",
-    images: "/1.jpg",
+    images: ["https://www.yes4save.org/1.jpg"],
   },
   icons: {
     icon: "/favicon.ico",
